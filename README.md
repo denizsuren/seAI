@@ -202,4 +202,4 @@ local Ollama, so usually you don't need to change anything. Handy knobs:
 - `TEMPERATURE` - lower is more precise, better for code (default `0.2`)
 
 To use a hosted provider instead of Ollama (e.g. Groq's free tier), just change
-`BASE_URL`, `API_KEY` and `MODEL_ID` in `.env` - no code changes needed.
+`BASE_URL`, `API_KEY` and `MODEL_ID` in `.env` - no code changes needed.Also some examples of seAI's work has been added to workspace directory.

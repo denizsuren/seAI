@@ -1,0 +1,4 @@
+openai            # OpenAI-compatible client (also talks to local Ollama)
+ddgs              # DuckDuckGo web search (no API key)
+python-dotenv     # loads settings from a .env file
+pytest            # test runner

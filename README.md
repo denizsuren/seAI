@@ -1,5 +1,7 @@
 # seAI
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/denizsuren/seAI)
+
 ### your beginner coding guide
 
 seAI is a small **AI coding agent** that runs entirely on your own machine. You
